@@ -1,0 +1,15 @@
+{
+  "name": "cat-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cat.js"
+  },
+  "bin": {
+    "wcat": "cat.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
